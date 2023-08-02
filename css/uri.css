@@ -1,0 +1,129 @@
+h1, h2 {
+  font-family: Verdana, Geneva, Arial, sans-serif;
+  color: black;
+}
+  
+h3 {
+  text-decoration: underline;
+  text-align: left ;
+}
+
+h1 {
+  border-bottom: 1px solid black;
+  font-size: 40px;
+}
+  
+#map-canvas { height: 800px; margin: 0; padding: 0;}
+
+body {
+  width: 1000px;
+  background-color: #FEFFF1; 
+  margin-left: 3%;
+  margin-right: 3%;
+  border: 1px dotted gray;
+  padding: 10px 10px 10px 10px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.style1 {font-size: 55px}
+.style2 {font-size: 30px}
+.style3 {font-size: 40px}
+.style4 {font-size: 20px}
+.style5 {font-size: 30px; color:black;}
+.style6 {font-size: 25px; color:black;}
+.style7 {font-size: 22px; color:black;}
+.style8 {font-size: 18px; color:black;}
+
+#navi {
+  background-color: #E4E4E4; 
+  margin: 10px 10px 10px 10px;
+  list-style-type: none;
+  padding: 5px, 0px, 5px, 0px;
+  font-size: 25px;
+  background-image: url(images/background.gif);
+  background-repeat: no-repeat;
+  background-position: top left;
+  border-color: green;
+  border-width: 1px;
+  border-style: solid;
+  padding: 15px;
+  margin: 0px;
+}
+
+a:link     {color:#C71585;text-decoration:none;} 
+a:visited  {color:#C71585;text-decoration:none;} 
+a:active   {color:#3CB371;text-decoration:none;} 
+a:hover    {color:#3CB371;text-decoration:none;} 
+
+#header {
+  width: 1000x;
+  margin: 0px 0px 0px 0px;
+  height: 108px;
+  background-color: #FEFFF1;
+}
+
+table {
+  width: 1000px;
+}
+
+table,td {
+  border-collapse: collapse;
+  border: 1px solid black;
+  padding: 0.4rem;
+}
+
+div.title {
+  background-color: #FEFFF1;
+  margin: 10px 10px 10px 10px;
+  padding: 5px, 0px, 5px, 0px;
+}
+
+div.table1 {
+  background-color: #FEFFF1;
+}
+
+div.table2 {
+  background-color: #FEFFF1;
+}
+
+div.table3 {
+  background-color: #FEFFF1;
+}
+
+div.table4 {
+    background-color: #FEFFF1;
+}
+
+div.text1 {
+    background-color: #FEFFF1;
+}
+
+div.text2 {
+    background-color: #FEFFF1;
+}
+
+div.text3 {
+    background-color: #FEFFF1;
+}
+
+div.text4 {
+    background-color: #FEFFF1;
+}
+
+
+div.text5 {
+    background-color: #FEFFF1;
+}
+
+div.inner {
+    margin: 20px 20px 20px 20px;
+}
+
+div#foot {
+  background-color: FEFFF1;
+}
+
+table { table-layout: fixed; }
+/* h1:21px body14px h2 17px 
+  line-height: 1.6em; */
